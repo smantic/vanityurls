@@ -1,0 +1,15 @@
+http:// {
+
+    log { 
+        format json 
+    }
+
+    root * vangen/
+    handle_errors {
+        rewrite * blog.smantic.dev/404.html
+        file_server
+    }
+
+	file_server
+}
+

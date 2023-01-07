@@ -1,0 +1,27 @@
+{
+  "domain": "go.smantic.dev",
+  "repositories": [
+    {
+      "prefix": "optional",
+      "subs": [
+        "template"
+      ],
+      "url": "https://github.com/smantic/websocket"
+    },
+    {
+      "prefix": "optional",
+      "subs": [
+        "template"
+      ],
+      "url": "https://github.com/smantic/mux"
+    },
+    {
+      "prefix": "optional",
+      "subs": [
+        "template"
+      ],
+      "url": "https://github.com/smantic/handlers"
+    }
+
+  ]
+}
