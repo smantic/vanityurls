@@ -4,7 +4,7 @@ http:// {
         format json 
     }
 
-    root * vangen/
+    root * public/
     handle_errors {
         rewrite * blog.smantic.dev/404.html
         file_server
