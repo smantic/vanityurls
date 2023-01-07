@@ -1,19 +1,23 @@
 {
   "domain": "go.smantic.dev",
+  "docsDomain": "pkg.go.dev",
   "repositories": [
     {
+      "prefix": "websocket", 
       "subs": [
         "template"
       ],
       "url": "https://github.com/smantic/websocket"
     },
     {
+      "prefix": "mux", 
       "subs": [
         "template"
       ],
       "url": "https://github.com/smantic/mux"
     },
     {
+      "prefix": "handlers", 
       "subs": [
         "template"
       ],
