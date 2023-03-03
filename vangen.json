@@ -4,9 +4,6 @@
   "repositories": [
     {
       "prefix": "websocket", 
-      "subs": [
-        "template"
-      ],
       "url": "https://github.com/smantic/websocket", 
       "website": {
         "url": "https://github.com/smantic/websocket"
@@ -14,9 +11,6 @@
     },
     {
       "prefix": "mux", 
-      "subs": [
-        "template"
-      ],
       "url": "https://github.com/smantic/mux",
       "website": {
         "url": "https://github.com/smantic/mux"
@@ -24,20 +18,17 @@
     },
     {
       "prefix": "handlers", 
-      "subs": [
-        "template"
-      ],
       "url": "https://github.com/smantic/handlers", 
       "website": {
         "url": "https://github.com/smantic/handlers"
       }
     },
     {
-      "prefix": "libs/handlers", 
+      "prefix": "libs", 
       "subs": [
-        "template"
+        "handlers"
       ],
-      "url": "https://github.com/smantic/libs/tree/main/handlers", 
+      "url": "https://github.com/smantic/libs", 
       "website": {
         "url": "https://github.com/smantic/libs"
       }
