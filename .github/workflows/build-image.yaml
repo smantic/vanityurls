@@ -63,4 +63,4 @@ jobs:
           namespace: default
 
       - name: Deploy
-        run: kubectl rollout restart deployment vanityurls
+        run: kubectl rollout restart deployment vanity-urls
