@@ -7,29 +7,40 @@
       "subs": [
         "template"
       ],
-      "url": "https://github.com/smantic/websocket"
+      "url": "https://github.com/smantic/websocket", 
+      "website": {
+        "url": "https://github.com/smantic/websocket"
+      }
     },
     {
       "prefix": "mux", 
       "subs": [
         "template"
       ],
-      "url": "https://github.com/smantic/mux"
+      "url": "https://github.com/smantic/mux",
+      "website": {
+        "url": "https://github.com/smantic/mux"
+      }
     },
     {
       "prefix": "handlers", 
       "subs": [
         "template"
       ],
-      "url": "https://github.com/smantic/handlers"
+      "url": "https://github.com/smantic/handlers", 
+      "website": {
+        "url": "https://github.com/smantic/handlers"
+      }
     },
     {
       "prefix": "libs/handlers", 
       "subs": [
         "template"
       ],
-      "url": "https://github.com/smantic/libs/handlers"
-    }
-
+      "url": "https://github.com/smantic/libs/tree/main/handlers", 
+      "website": {
+        "url": "https://github.com/smantic/libs"
+      }
+   }
   ]
 }
